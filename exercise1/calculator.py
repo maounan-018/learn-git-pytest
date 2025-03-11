@@ -25,4 +25,5 @@ def divide(a: Number, b: Number) -> Number:
         raise ValueError("Attempted to divide by Zero.")
     else:
         return a/b
+    
     pass
